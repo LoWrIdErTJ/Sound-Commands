@@ -1,0 +1,7 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\bin\Debug\SoundCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\bin\Debug\SoundCommands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\obj\x86\Debug\SoundCommands.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\obj\x86\Debug\SoundCommands.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\obj\x86\Debug\SoundCommands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\obj\x86\Debug\SoundCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Sound Commands\http post project\obj\x86\Debug\SoundCommands.pdb

@@ -1,0 +1,3 @@
+PLAY SYSTEM SOUND ("Asterisk", "Beep", "Exclamation", "Hand", "Question")
+PLAY CUSTOM SOUND FILE (wav, mp3, aiff, wma)
+10.00
